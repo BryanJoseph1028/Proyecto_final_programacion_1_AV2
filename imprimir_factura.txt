@@ -1,0 +1,13 @@
+No. Factura: 16                              Fecha: 2/6/2020
+Nit: 2212846-8
+Cliente: bryan
+Direccion: san lucas
+
+                    PRODUCTO
+
+10003-TELEFONO marca HUAWEI                     Q3000.00
+10003-TELEFONO marca HUAWEI                     Q3000.00
+                                         ____________________
+Total:                                       Q6000
+
+GRACIAS POR SU COMPRA

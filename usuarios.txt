@@ -1,0 +1,12 @@
+admin
+admin
+Administrador
+
+admin
+admin
+Empleado
+
+admin
+admin
+Empleado
+
